@@ -1,0 +1,7 @@
+print("Jackie Chan")
+print(24)
+print("WE ARE THE WORLD \nBUY MY SHOES")
+print("Programming Essentials in")
+print("python")
+print ("Programming Essentials in", sep="***", end="...")
+print("python")
